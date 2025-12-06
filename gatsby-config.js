@@ -11,8 +11,8 @@ module.exports = {
     {
       resolve: "gatsby-plugin-manifest",
       options: {
-        name: "Mahmoud Khaled Ghunaim Portfolio",
-        short_name: "MKG Portfolio",
+        name: "Ahmad Mustafa Portfolio",
+        short_name: "Ahmad Mustafa Portfolio",
         start_url: "/",
         background_color: "#22292d",
         theme_color: "#ac9576",
