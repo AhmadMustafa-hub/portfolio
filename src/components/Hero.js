@@ -45,7 +45,7 @@ const Hero = () => {
           </h1>
           <h2 className="hero-subtitle">Full Stack Developer</h2>
           <p className="hero-description">
-            3+ years of experience specializing in WordPress, Laravel, React, and E-commerce solutions.
+            4+ years of experience specializing in WordPress, Laravel, React, and E-commerce solutions.
             Building high-quality, responsive websites that exceed expectations.
           </p>
           <div className="hero-location">

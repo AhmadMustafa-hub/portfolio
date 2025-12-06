@@ -25,7 +25,7 @@ export const Head = () => (
     <title>Ahmad Mustafa - Full Stack Developer</title>
     <meta
       name="description"
-      content="Professional portfolio of Ahmad Mustafa, a Full Stack Developer with 3+ years of experience specializing in WordPress, Laravel, React, and E-commerce solutions from Jordan"
+      content="Professional portfolio of Ahmad Mustafa, a Full Stack Developer with 4+ years of experience specializing in WordPress, Laravel, React, and E-commerce solutions from Jordan"
     />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="keywords" content="Full Stack Developer, WordPress Developer, Laravel Developer, React Developer, Web Developer, Jordan, Amman, E-commerce, WooCommerce, Elementor" />

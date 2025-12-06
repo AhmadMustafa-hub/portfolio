@@ -46,7 +46,7 @@ const About = () => {
           <div className="about-text">
             <p>
               I'm <strong>Ahmad Mustafa</strong>, a dedicated Full Stack Developer
-              based in Amman, Jordan with over 3 years of professional experience.
+              based in Amman, Jordan with over 4 years of professional experience.
               I specialize in creating high-quality WordPress websites, custom plugins and themes,
               and modern web applications that help businesses grow.
             </p>
@@ -66,7 +66,7 @@ const About = () => {
 
           <div className="about-highlights">
             <div className="highlight-card">
-              <div className="highlight-number">3+</div>
+              <div className="highlight-number">4+</div>
               <div className="highlight-label">Years Experience</div>
             </div>
             <div className="highlight-card">

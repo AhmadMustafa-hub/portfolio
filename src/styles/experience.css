@@ -41,7 +41,7 @@
 
 .timeline-icon {
   position: absolute;
-  left: -30px;
+  left: -54px;
   top: 0;
   width: 50px;
   height: 50px;
@@ -138,7 +138,7 @@
   }
 
   .timeline-icon {
-    left: -20px;
+    left: -38px;
     width: 40px;
     height: 40px;
     font-size: 1.2rem;
