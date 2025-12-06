@@ -85,7 +85,7 @@ const Hero = () => {
             },
           }}
         >
-          <div className="mouse"></div>
+          {/* <div className="mouse"></div> */}
         </motion.div>
       </motion.div>
     </section>
