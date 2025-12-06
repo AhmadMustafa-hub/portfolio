@@ -8,7 +8,7 @@ const Layout = ({ children }) => {
       <Navbar />
       <main className="main-content">{children}</main>
       <footer className="footer">
-        <p>&copy; {new Date().getFullYear()} Mahmoud Khaled Ghunaim. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Ahmad Mustafa. All rights reserved.</p>
       </footer>
     </div>
   )
